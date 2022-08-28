@@ -1,13 +1,13 @@
 {
-  "name": "raganork-md", 
+  "name": "satarugojo-md", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "satarugojo whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
-    "type": "git",
+    "type": "glit",
     "url": "git+https://github.com/souravkl11/raganork-md.git"
   },
   "keywords": [
@@ -15,10 +15,10 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "fl96.96",
+  "developer": "@simeon",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/blackhathacker96/satarugojo-md#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "@adiwajshing/keyed-db":"0.2.4",
@@ -29,7 +29,7 @@
     "node-webpmux": "^3.1.0",
     "node-cron": "3.0.1",
     "async-g-i-s": "1.0.0",
-    "raganork-bot": "2.0.7",
+    "satarugojo-bot": "2.0.7",
     "sequelize": "^6.13.0",
     "sqlite3": "^5.0.0",
     "supervisor": "^0.12.0"  
